@@ -1,0 +1,10 @@
+{
+    "example@newexample.com": {
+        "password": "6ad88b760d9c6fa039a47fb03afec44a8d510a86ef2ccf8a259014979ada4774",
+        "salt": "f3598166968537c99c944ac0f433b716"
+    },
+    "khang@gmail.com": {
+        "password": "849f4152bb10a51c554a0a75a4a789301da8a65a66276d14dc1f9100766f7150",
+        "salt": "78b5b6b296a584e073ab091282725433"
+    }
+}
